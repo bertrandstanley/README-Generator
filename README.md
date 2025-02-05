@@ -9,7 +9,8 @@ This application will help you generate a High Quality Professional README File.
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Test](#test)
+- [Video Demo](#video-demo)
 - [Questions](#questions)
 
 ## Installation
@@ -25,10 +26,10 @@ This project is licensed under the MIT license.
 ## Contributing
 If you want to contribute, feel free to fork the repository, create a feature branch, make your changes and pull a request.
 
-## Tests
+## Test
 Please test all sections by answering all the questions.
 
-## Video Demonstration
+## Video Demo
 [Click Here](https://youtu.be/hhnDzLomi2s)
 
 ## Questions
